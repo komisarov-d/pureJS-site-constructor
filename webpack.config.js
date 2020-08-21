@@ -7,7 +7,7 @@ module.exports = {
         path: patch.resolve(__dirname, 'dist')
     },
     devServer: {
-        port:3000
+        port: 3000
     },
     plugins: [
         new HTMLWebpackPlugin({
@@ -20,6 +20,14 @@ module.exports = {
                 test: /\.css$/i,
                 use: ['style-loader', 'css-loader'],
             },
-        ],
+            {
+                test: /\.(png|jpe?g|gif)$/i,
+                use: [
+                    {
+                        loader: 'file-loader',
+                    }
+                ],
+            }
+            ]
     }
 }
