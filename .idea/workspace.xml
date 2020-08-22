@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266a9f26-e84b-49c3-9cef-b756ae25e8c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/site.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/blocks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
-    </list>
+    <list default="true" id="266a9f26-e84b-49c3-9cef-b756ae25e8c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +85,7 @@
       <workItem from="1597960840978" duration="1098000" />
       <workItem from="1597962022447" duration="3054000" />
       <workItem from="1597998614280" duration="12523000" />
-      <workItem from="1598084520079" duration="6738000" />
+      <workItem from="1598084520079" duration="7146000" />
     </task>
     <servers />
   </component>
@@ -121,21 +112,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597962824643" />
-    <state width="1344" height="102" key="GridCell.Tab.0.bottom" timestamp="1598014875228">
+    <state width="1344" height="102" key="GridCell.Tab.0.bottom" timestamp="1598092426101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598014875228" />
-    <state width="1344" height="102" key="GridCell.Tab.0.center" timestamp="1598014875228">
+    <state width="1344" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598092426101" />
+    <state width="1344" height="102" key="GridCell.Tab.0.center" timestamp="1598092426101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598014875228" />
-    <state width="1344" height="102" key="GridCell.Tab.0.left" timestamp="1598014875228">
+    <state width="1344" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598092426101" />
+    <state width="1344" height="102" key="GridCell.Tab.0.left" timestamp="1598092426101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598014875228" />
-    <state width="1344" height="102" key="GridCell.Tab.0.right" timestamp="1598014875228">
+    <state width="1344" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598092426101" />
+    <state width="1344" height="102" key="GridCell.Tab.0.right" timestamp="1598092426101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598014875228" />
+    <state width="1344" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598092426101" />
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598092151929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1598092151929" />
   </component>
 </project>
