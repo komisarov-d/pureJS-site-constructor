@@ -20,21 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="266a9f26-e84b-49c3-9cef-b756ae25e8c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/JS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/blocks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/javascript-constructor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javascript-constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/site.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/blocks.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +94,7 @@
       <workItem from="1597960840978" duration="1098000" />
       <workItem from="1597962022447" duration="3054000" />
       <workItem from="1597998614280" duration="12523000" />
+      <workItem from="1598084520079" duration="6738000" />
     </task>
     <servers />
   </component>
@@ -117,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
